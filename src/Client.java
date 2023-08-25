@@ -9,5 +9,8 @@ public class Client {
 
     public void crearPalabra(){
         System.out.println("Hola");
+
+        System.out.println("Agregué información");
+
     }
 }
